@@ -18,6 +18,9 @@
 .env
 **/.env
 
+# Database configuration
+**/database.properties
+
 # OS files
 .DS_Store
 Thumbs.db
